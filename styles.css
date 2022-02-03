@@ -18,7 +18,7 @@
       --neutral-clr-hd: hsl(0, 0%, 100%);
       --neutral-clr-subhd: hsla(0, 0%, 100%, 0.6);
       --neutral-clr-pg: hsla(0, 0%, 100%, 0.50);
-      --container--wdth: 20rem;
+      --container--wdth: 25rem;
       --spacing-val: 1.8rem;
       --border-rad: .5rem;
     }
